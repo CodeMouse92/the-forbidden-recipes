@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "glow_squid_spawn_egg",
+    "ingredients": [
+        "minecraft:egg",
+        "minecraft:lapis_lazuli",
+        "minecraft:lapis_lazuli",
+        "minecraft:lapis_lazuli",
+        "minecraft:glow_ink_sac",
+        "minecraft:glow_ink_sac"
+    ],
+    "result": {
+        "id": "minecraft:glow_squid_spawn_egg",
+        "count": 1
+    }
+}

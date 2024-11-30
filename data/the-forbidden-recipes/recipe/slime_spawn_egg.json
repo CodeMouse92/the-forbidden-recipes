@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "slime_spawn_egg",
+    "ingredients": [
+        "minecraft:egg",
+        "minecraft:lapis_lazuli",
+        "minecraft:lapis_lazuli",
+        "minecraft:lapis_lazuli",
+        "minecraft:slime_ball",
+        [
+            "minecraft:brown_mushroom",
+            "minecraft:red_mushroom"
+        ]
+    ],
+    "result": {
+        "id": "minecraft:slime_spawn_egg",
+        "count": 1
+    }
+}

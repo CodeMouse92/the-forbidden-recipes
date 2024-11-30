@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "salmon_spawn_egg",
+    "ingredients": [
+        "minecraft:egg",
+        "minecraft:lapis_lazuli",
+        "minecraft:lapis_lazuli",
+        "minecraft:lapis_lazuli",
+        "minecraft:seagrass",
+        "minecraft:salmon"
+    ],
+    "result": {
+        "id": "minecraft:salmon_spawn_egg",
+        "count": 1
+    }
+}

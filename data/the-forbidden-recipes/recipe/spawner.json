@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "spawner",
+    "pattern": [
+        "d",
+        "n",
+        "g"
+    ],
+    "key": {
+        "d": "minecraft:waxed_oxidized_copper_trapdoor",
+        "n": "minecraft:nether_star",
+        "g": "minecraft:waxed_oxidized_copper_grate"
+    },
+    "result": {
+        "id": "minecraft:spawner",
+        "count": 1
+    }
+}

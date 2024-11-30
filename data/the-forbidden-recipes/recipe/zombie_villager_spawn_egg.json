@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "zombie_villager_spawn_egg",
+    "ingredients": [
+        "minecraft:egg",
+        "minecraft:lapis_lazuli",
+        "minecraft:lapis_lazuli",
+        "minecraft:lapis_lazuli",
+        "minecraft:emerald",
+        "minecraft:rotten_flesh",
+        "minecraft:poisonous_potato"
+    ],
+    "result": {
+        "id": "minecraft:zombie_villager_spawn_egg",
+        "count": 1
+    }
+}

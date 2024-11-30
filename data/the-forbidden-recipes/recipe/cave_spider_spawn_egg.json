@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "cave_spider_spawn_egg",
+    "ingredients": [
+        "minecraft:egg",
+        "minecraft:lapis_lazuli",
+        "minecraft:lapis_lazuli",
+        "minecraft:lapis_lazuli",
+        "minecraft:spider_eye",
+        "minecraft:cobweb",
+        "minecraft:rail"
+    ],
+    "result": {
+        "id": "minecraft:cave_spider_spawn_egg",
+        "count": 1
+    }
+}

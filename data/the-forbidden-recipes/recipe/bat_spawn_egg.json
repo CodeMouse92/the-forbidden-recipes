@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "bat_spawn_egg",
+    "ingredients": [
+        "minecraft:egg",
+        "minecraft:lapis_lazuli",
+        "minecraft:lapis_lazuli",
+        "minecraft:lapis_lazuli",
+        [
+            "minecraft:stone",
+            "minecraft:granite",
+            "minecraft:diorite",
+            "minecraft:andesite",
+            "minecraft:tuff",
+            "minecraft:deepslate"
+        ],
+        [
+            "minecraft:stone",
+            "minecraft:granite",
+            "minecraft:diorite",
+            "minecraft:andesite",
+            "minecraft:tuff",
+            "minecraft:deepslate"
+        ]
+    ],
+    "result": {
+        "id": "minecraft:bat_spawn_egg",
+        "count": 1
+    }
+}

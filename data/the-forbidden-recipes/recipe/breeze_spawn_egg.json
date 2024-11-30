@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "breeze_spawn_egg",
+    "ingredients": [
+        "minecraft:egg",
+        "minecraft:lapis_lazuli",
+        "minecraft:lapis_lazuli",
+        "minecraft:lapis_lazuli",
+        "minecraft:breeze_rod",
+        "minecraft:breeze_rod"
+    ],
+    "result": {
+        "id": "minecraft:breeze_spawn_egg",
+        "count": 1
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "vindicator_spawn_egg",
+    "ingredients": [
+        "minecraft:egg",
+        "minecraft:lapis_lazuli",
+        "minecraft:lapis_lazuli",
+        "minecraft:lapis_lazuli",
+        "minecraft:villager_spawn_egg",
+        "minecraft:ominous_bottle",
+        "minecraft:iron_axe"
+    ],
+    "result": {
+        "id": "minecraft:vindicator_spawn_egg",
+        "count": 1
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "sheep_spawn_egg",
+    "ingredients": [
+        "minecraft:egg",
+        "minecraft:lapis_lazuli",
+        "minecraft:lapis_lazuli",
+        "minecraft:lapis_lazuli",
+        "minecraft:mutton",
+        "minecraft:wheat"
+    ],
+    "result": {
+        "id": "minecraft:sheep_spawn_egg",
+        "count": 1
+    }
+}

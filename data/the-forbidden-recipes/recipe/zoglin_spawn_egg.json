@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "zoglin_spawn_egg",
+    "ingredients": [
+        "minecraft:egg",
+        "minecraft:lapis_lazuli",
+        "minecraft:lapis_lazuli",
+        "minecraft:lapis_lazuli",
+        "minecraft:rotten_flesh",
+        "minecraft:crimson_fungus"
+    ],
+    "result": {
+        "id": "minecraft:zoglin_spawn_egg",
+        "count": 1
+    }
+}

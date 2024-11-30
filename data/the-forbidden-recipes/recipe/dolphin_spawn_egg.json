@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "dolphin_spawn_egg",
+    "ingredients": [
+        "minecraft:egg",
+        "minecraft:lapis_lazuli",
+        "minecraft:lapis_lazuli",
+        "minecraft:lapis_lazuli",
+        "minecraft:nautilus_shell",
+        [
+            "minecraft:cod",
+            "minecraft:salmon",
+            "minecraft:tropical_fish",
+            "minecraft:pufferfish"
+        ]
+    ],
+    "result": {
+        "id": "minecraft:dolphin_spawn_egg",
+        "count": 1
+    }
+}

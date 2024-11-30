@@ -19,7 +19,7 @@ balance! Want to craft a spawn egg? A trial spawner? Now you can!
 
 ### Spawner
 
-Crafted with a weathered waxed copper grate, a nether star, and a weather waxed copper trapdoor.
+Crafted with a oxidized waxed copper grate, a nether star, and a oxidized waxed copper trapdoor.
 
 ![Bell](img/spawner.png)
 

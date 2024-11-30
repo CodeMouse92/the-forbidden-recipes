@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "turtle_spawn_egg",
+    "ingredients": [
+        "minecraft:egg",
+        "minecraft:lapis_lazuli",
+        "minecraft:lapis_lazuli",
+        "minecraft:lapis_lazuli",
+        "minecraft:seagrass",
+        "minecraft:turtle_scute"
+    ],
+    "result": {
+        "id": "minecraft:turtle_spawn_egg",
+        "count": 1
+    }
+}

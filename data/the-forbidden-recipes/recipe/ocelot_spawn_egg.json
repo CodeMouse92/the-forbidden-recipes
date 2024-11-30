@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "ocelot_spawn_egg",
+    "ingredients": [
+        "minecraft:egg",
+        "minecraft:lapis_lazuli",
+        "minecraft:lapis_lazuli",
+        "minecraft:lapis_lazuli",
+        "minecraft:cocoa_beans",
+        [
+            "minecraft:cod",
+            "minecraft:salmon"
+        ]
+    ],
+    "result": {
+        "id": "minecraft:ocelot_spawn_egg",
+        "count": 1
+    }
+}

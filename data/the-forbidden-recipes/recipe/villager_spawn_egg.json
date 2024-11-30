@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "villager_spawn_egg",
+    "ingredients": [
+        "minecraft:egg",
+        "minecraft:lapis_lazuli",
+        "minecraft:lapis_lazuli",
+        "minecraft:lapis_lazuli",
+        "minecraft:emerald",
+        "minecraft:emerald",
+        "minecraft:emerald"
+    ],
+    "result": {
+        "id": "minecraft:villager_spawn_egg",
+        "count": 1
+    }
+}

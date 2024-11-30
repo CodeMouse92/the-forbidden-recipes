@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "chicken_spawn_egg",
+    "ingredients": [
+        "minecraft:egg",
+        "minecraft:lapis_lazuli",
+        "minecraft:lapis_lazuli",
+        "minecraft:lapis_lazuli",
+        "minecraft:feather",
+        [
+            "minecraft:wheat_seeds",
+            "minecraft:beetroot_seeds",
+            "minecraft:melon_seeds",
+            "minecraft:pumpkin_seeds",
+            "minecraft:torchflower_seeds",
+            "minecraft:pitcher_pod"
+        ]
+    ],
+    "result": {
+        "id": "minecraft:chicken_spawn_egg",
+        "count": 1
+    }
+}

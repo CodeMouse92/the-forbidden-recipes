@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "endermite_spawn_egg",
+    "ingredients": [
+        "minecraft:egg",
+        "minecraft:lapis_lazuli",
+        "minecraft:lapis_lazuli",
+        "minecraft:lapis_lazuli",
+        "minecraft:ender_pearl",
+        "minecraft:ender_pearl"
+    ],
+    "result": {
+        "id": "minecraft:endermite_spawn_egg",
+        "count": 1
+    }
+}

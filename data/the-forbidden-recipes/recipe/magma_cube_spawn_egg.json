@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "magma_cube_spawn_egg",
+    "ingredients": [
+        "minecraft:egg",
+        "minecraft:lapis_lazuli",
+        "minecraft:lapis_lazuli",
+        "minecraft:lapis_lazuli",
+        "minecraft:magma_cream",
+        "minecraft:magma_block"
+    ],
+    "result": {
+        "id": "minecraft:magma_cube_spawn_egg",
+        "count": 1
+    }
+}

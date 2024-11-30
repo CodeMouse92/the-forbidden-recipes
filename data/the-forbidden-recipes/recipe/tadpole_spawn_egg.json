@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "tadpole_spawn_egg",
+    "ingredients": [
+        "minecraft:egg",
+        "minecraft:lapis_lazuli",
+        "minecraft:lapis_lazuli",
+        "minecraft:lapis_lazuli",
+        "minecraft:slime_ball",
+        "minecraft:tadpole_bucket"
+    ],
+    "result": {
+        "id": "minecraft:tadpole_spawn_egg",
+        "count": 1
+    }
+}

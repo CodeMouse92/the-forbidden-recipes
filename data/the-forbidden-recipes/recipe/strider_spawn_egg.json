@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "strider_spawn_egg",
+    "ingredients": [
+        "minecraft:egg",
+        "minecraft:lapis_lazuli",
+        "minecraft:lapis_lazuli",
+        "minecraft:lapis_lazuli",
+        "minecraft:warped_fungus",
+        "minecraft:string"
+    ],
+    "result": {
+        "id": "minecraft:strider_spawn_egg",
+        "count": 1
+    }
+}

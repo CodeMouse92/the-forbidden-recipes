@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "frog_spawn_egg",
+    "ingredients": [
+        "minecraft:egg",
+        "minecraft:lapis_lazuli",
+        "minecraft:lapis_lazuli",
+        "minecraft:lapis_lazuli",
+        "minecraft:lily_pad",
+        "minecraft:slime_ball"
+    ],
+    "result": {
+        "id": "minecraft:frog_spawn_egg",
+        "count": 1
+    }
+}

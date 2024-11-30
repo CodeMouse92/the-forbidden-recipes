@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "guardian_spawn_egg",
+    "ingredients": [
+        "minecraft:egg",
+        "minecraft:lapis_lazuli",
+        "minecraft:lapis_lazuli",
+        "minecraft:lapis_lazuli",
+        "minecraft:prismarine_shard",
+        "minecraft:prismarine_crystals"
+    ],
+    "result": {
+        "id": "minecraft:guardian_spawn_egg",
+        "count": 1
+    }
+}

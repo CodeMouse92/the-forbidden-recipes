@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "silverfish_spawn_egg",
+    "ingredients": [
+        "minecraft:egg",
+        "minecraft:lapis_lazuli",
+        "minecraft:lapis_lazuli",
+        "minecraft:lapis_lazuli",
+        "minecraft:stone",
+        "minecraft:iron_nugget"
+    ],
+    "result": {
+        "id": "minecraft:silverfish_spawn_egg",
+        "count": 1
+    }
+}

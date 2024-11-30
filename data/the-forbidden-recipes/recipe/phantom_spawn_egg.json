@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "phantom_spawn_egg",
+    "ingredients": [
+        "minecraft:egg",
+        "minecraft:lapis_lazuli",
+        "minecraft:lapis_lazuli",
+        "minecraft:lapis_lazuli",
+        "minecraft:phantom_membrane",
+        [
+            "minecraft:orange_bed",
+            "minecraft:magenta_bed",
+            "minecraft:light_blue_bed",
+            "minecraft:yellow_bed",
+            "minecraft:lime_bed",
+            "minecraft:pink_bed",
+            "minecraft:gray_bed",
+            "minecraft:light_gray_bed",
+            "minecraft:cyan_bed",
+            "minecraft:purple_bed",
+            "minecraft:blue_bed",
+            "minecraft:brown_bed",
+            "minecraft:green_bed",
+            "minecraft:red_bed",
+            "minecraft:white_bed",
+            "minecraft:black_bed"
+        ]
+    ],
+    "result": {
+        "id": "minecraft:phantom_spawn_egg",
+        "count": 1
+    }
+}

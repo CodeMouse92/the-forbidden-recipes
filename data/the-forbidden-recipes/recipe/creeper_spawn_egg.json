@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "creeper_spawn_egg",
+    "ingredients": [
+        "minecraft:egg",
+        "minecraft:lapis_lazuli",
+        "minecraft:lapis_lazuli",
+        "minecraft:lapis_lazuli",
+        "minecraft:gunpowder",
+        "minecraft:short_grass"
+    ],
+    "result": {
+        "id": "minecraft:creeper_spawn_egg",
+        "count": 1
+    }
+}

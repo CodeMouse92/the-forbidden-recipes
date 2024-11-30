@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "rabbit_spawn_egg",
+    "ingredients": [
+        "minecraft:egg",
+        "minecraft:lapis_lazuli",
+        "minecraft:lapis_lazuli",
+        "minecraft:lapis_lazuli",
+        "minecraft:rabbit",
+        "minecraft:carrot"
+    ],
+    "result": {
+        "id": "minecraft:rabbit_spawn_egg",
+        "count": 1
+    }
+}

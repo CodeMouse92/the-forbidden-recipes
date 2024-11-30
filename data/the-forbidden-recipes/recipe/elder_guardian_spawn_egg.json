@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "elder_guardian_spawn_egg",
+    "ingredients": [
+        "minecraft:egg",
+        "minecraft:lapis_lazuli",
+        "minecraft:lapis_lazuli",
+        "minecraft:lapis_lazuli",
+        "minecraft:prismarine_shard",
+        "minecraft:prismarine_crystals",
+        "minecraft:wet_sponge"
+    ],
+    "result": {
+        "id": "minecraft:elder_guardian_spawn_egg",
+        "count": 1
+    }
+}
