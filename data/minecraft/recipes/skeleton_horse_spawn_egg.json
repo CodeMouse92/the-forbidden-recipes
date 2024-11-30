@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "minecraft:skeleton_horse_spawn_egg",
+    "ingredients": [
+        {
+            "item": "minecraft:egg"
+        },
+        {
+            "item": "minecraft:lapis_lazuli"
+        },
+        {
+            "item": "minecraft:lapis_lazuli"
+        },
+        {
+            "item": "minecraft:lapis_lazuli"
+        },
+        {
+            "item": "minecraft:saddle"
+        },
+        {
+            "item": "minecraft:bone"
+        }
+    ],
+    "result": {
+        "item": "minecraft:skeleton_horse_spawn_egg",
+        "count": 1
+    }
+}

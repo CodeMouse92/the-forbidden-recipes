@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "minecraft:axolotl_spawn_egg",
+    "ingredients": [
+        {
+            "item": "minecraft:egg"
+        },
+        {
+            "item": "minecraft:lapis_lazuli"
+        },
+        {
+            "item": "minecraft:lapis_lazuli"
+        },
+        {
+            "item": "minecraft:lapis_lazuli"
+        },
+        {
+            "item": "minecraft:glow_berries"
+        },
+        {
+            "item": "minecraft:bucket_of_axolotl"
+        }
+    ],
+    "result": {
+        "item": "minecraft:axolotl_spawn_egg",
+        "count": 1
+    }
+}

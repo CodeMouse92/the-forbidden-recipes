@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "minecraft:armadillo_spawn_egg",
+    "ingredients": [
+        {
+            "item": "minecraft:egg"
+        },
+        {
+            "item": "minecraft:lapis_lazuli"
+        },
+        {
+            "item": "minecraft:lapis_lazuli"
+        },
+        {
+            "item": "minecraft:lapis_lazuli"
+        },
+        {
+            "item": "minecraft:spider_eye"
+        },
+        {
+            "item": "minecraft:armadillo_scute"
+        }
+    ],
+    "result": {
+        "item": "minecraft:armadillo_spawn_egg",
+        "count": 1
+    }
+}

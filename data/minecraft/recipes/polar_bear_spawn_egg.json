@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "minecraft:polar_bear_spawn_egg",
+    "ingredients": [
+        {
+            "item": "minecraft:egg"
+        },
+        {
+            "item": "minecraft:lapis_lazuli"
+        },
+        {
+            "item": "minecraft:lapis_lazuli"
+        },
+        {
+            "item": "minecraft:lapis_lazuli"
+        },
+        {
+            "item": "minecraft:blue_ice"
+        },
+        [
+            {
+                "item": "minecraft:raw_cod"
+            },
+            {
+                "item": "minecraft:raw_salmon"
+            }
+        ]
+    ],
+    "result": {
+        "item": "minecraft:polar_bear_spawn_egg",
+        "count": 1
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "minecraft:parrot_spawn_egg",
+    "ingredients": [
+        {
+            "item": "minecraft:egg"
+        },
+        {
+            "item": "minecraft:lapis_lazuli"
+        },
+        {
+            "item": "minecraft:lapis_lazuli"
+        },
+        {
+            "item": "minecraft:lapis_lazuli"
+        },
+        {
+            "item": "minecraft:feather"
+        },
+        {
+            "item": "minecraft:melon_slice"
+        },
+        [
+            {
+                "item": "minecraft:wheat_seeds"
+            },
+            {
+                "item": "minecraft:beetroot_seeds"
+            },
+            {
+                "item": "minecraft:melon_seeds"
+            },
+            {
+                "item": "minecraft:pumpkin_seeds"
+            },
+            {
+                "item": "minecraft:torchflower_seeds"
+            },
+            {
+                "item": "minecraft:pitcher_pod"
+            }
+        ]
+    ],
+    "result": {
+        "item": "minecraft:parrot_spawn_egg",
+        "count": 1
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "minecraft:donkey_spawn_egg",
+    "ingredients": [
+        {
+            "item": "minecraft:egg"
+        },
+        {
+            "item": "minecraft:lapis_lazuli"
+        },
+        {
+            "item": "minecraft:lapis_lazuli"
+        },
+        {
+            "item": "minecraft:lapis_lazuli"
+        },
+        {
+            "item": "minecraft:chest"
+        },
+        [
+            {
+                "item": "minecraft:golden_carrot"
+            },
+            {
+                "item": "minecraft:golden_apple"
+            }
+        ]
+    ],
+    "result": {
+        "item": "minecraft:donkey_spawn_egg",
+        "count": 1
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "minecraft:mule_spawn_egg",
+    "ingredients": [
+        {
+            "item": "minecraft:egg"
+        },
+        {
+            "item": "minecraft:lapis_lazuli"
+        },
+        {
+            "item": "minecraft:lapis_lazuli"
+        },
+        {
+            "item": "minecraft:lapis_lazuli"
+        },
+        {
+            "item": "minecraft:chest"
+        },
+        {
+            "item": "minecraft:saddle"
+        },
+        [
+            {
+                "item": "minecraft:golden_carrot"
+            },
+            {
+                "item": "minecraft:golden_apple"
+            }
+        ]
+    ],
+    "result": {
+        "item": "minecraft:mule_spawn_egg",
+        "count": 1
+    }
+}

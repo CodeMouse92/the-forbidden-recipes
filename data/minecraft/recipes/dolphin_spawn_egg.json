@@ -1,0 +1,39 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "minecraft:dolphin_spawn_egg",
+    "ingredients": [
+        {
+            "item": "minecraft:egg"
+        },
+        {
+            "item": "minecraft:lapis_lazuli"
+        },
+        {
+            "item": "minecraft:lapis_lazuli"
+        },
+        {
+            "item": "minecraft:lapis_lazuli"
+        },
+        {
+            "item": "minecraft:nautilus_shell"
+        },
+        [
+            {
+                "item": "minecraft:raw_cod"
+            },
+            {
+                "item": "minecraft:raw_salmon"
+            },
+            {
+                "item": "minecraft:tropical_fish"
+            },
+            {
+                "item": "minecraft:pufferfish"
+            }
+        ]
+    ],
+    "result": {
+        "item": "minecraft:dolphin_spawn_egg",
+        "count": 1
+    }
+}

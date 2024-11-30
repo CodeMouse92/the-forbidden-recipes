@@ -1,0 +1,62 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "minecraft:bat_spawn_egg",
+    "ingredients": [
+        {
+            "item": "minecraft:egg"
+        },
+        {
+            "item": "minecraft:lapis_lazuli"
+        },
+        {
+            "item": "minecraft:lapis_lazuli"
+        },
+        {
+            "item": "minecraft:lapis_lazuli"
+        },
+        [
+            {
+                "item": "minecraft:stone"
+            },
+            {
+                "item": "minecraft:granite"
+            },
+            {
+                "item": "minecraft:diorite"
+            },
+            {
+                "item": "minecraft:andesite"
+            },
+            {
+                "item": "minecraft:tuff"
+            },
+            {
+                "item": "minecraft:deepslate"
+            }
+        ],
+        [
+            {
+                "item": "minecraft:stone"
+            },
+            {
+                "item": "minecraft:granite"
+            },
+            {
+                "item": "minecraft:diorite"
+            },
+            {
+                "item": "minecraft:andesite"
+            },
+            {
+                "item": "minecraft:tuff"
+            },
+            {
+                "item": "minecraft:deepslate"
+            }
+        ]
+    ],
+    "result": {
+        "item": "minecraft:bat_spawn_egg",
+        "count": 1
+    }
+}
