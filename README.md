@@ -1,6 +1,6 @@
-# The Missing Recipes Datapack
+# The Forbidden Recipes Datapack
 
-A data pack for those of us who feel like there are some missing recipes from Minecraft.
+A data pack for creating spawn eggs and spawners!
 
 ## Credits
 
