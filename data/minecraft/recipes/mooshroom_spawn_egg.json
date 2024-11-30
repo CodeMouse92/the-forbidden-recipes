@@ -1,6 +1,6 @@
 {
     "type": "minecraft:crafting_shapeless",
-    "group": "minecraft:cow_spawn_egg",
+    "group": "minecraft:mooshroom_spawn_egg",
     "ingredients": [
         {
             "item": "minecraft:egg"
@@ -25,7 +25,7 @@
         }
     ],
     "result": {
-        "item": "minecraft:cow_spawn_egg",
+        "item": "minecraft:mooshroom_spawn_egg",
         "count": 1
     }
 }
