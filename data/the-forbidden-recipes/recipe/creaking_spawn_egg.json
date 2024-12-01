@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "creaking_spawn_egg",
+    "ingredients": [
+        "minecraft:egg",
+        "minecraft:lapis_lazuli",
+        "minecraft:lapis_lazuli",
+        "minecraft:lapis_lazuli",
+        "minecraft:resin_clump",
+        "minecraft:pale_oak_log"
+    ],
+    "result": {
+        "id": "minecraft:creaking_spawn_egg",
+        "count": 1
+    }
+}
